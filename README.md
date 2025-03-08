@@ -8,4 +8,10 @@ Projelerimle ilgili sorularınız varsa ya da C programlama dili ve oyun gelişt
 
 Teşekkürler! 🎮💻
 
+## About Me
+I've loved spending time with computers and playing video games since my childhood. My interest in these games led me into the world of software development. Specifically, my dream is to bring to life a game idea that combines mechanics I like from the games I play. However, as I progressed in software development, I realized that this idea was evolving into something increasingly complex and seemingly impossible to achieve. Nonetheless, software development has become an indispensable part of my life. My goal is to improve myself in the software field and, someday, turn my seemingly impossible game idea into reality. In my spare time, I experiment with pointers in the C programming language and work on mobile/PC game mechanics using the Godot game engine.
 
+## Getting Help
+If you have any questions regarding my projects or need help with the C programming language or game development, feel free to contact me via GitHub. New ideas and projects always excite me!
+
+Thanks! 🎮💻
